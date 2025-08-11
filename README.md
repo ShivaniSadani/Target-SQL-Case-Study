@@ -4,7 +4,7 @@ This project analyzes Target’s e-commerce operations in Brazil using SQL to de
 
 Through exploratory analysis, trend detection, and performance evaluation, this case study identifies growth opportunities, logistical challenges, and consumer behavior patterns to improve Target’s market strategy in Brazil.
 
-# 📂 Dataset Details
+# 📂 Dataset Details - https://drive.google.com/drive/folders/1zA-ChERZdS0KQNWjIPKUMtYw5Flu1OUv?usp=drive_link
 Source: Internal dataset (8 CSV files) covering orders, customers, sellers, products, reviews, payments, order items, and geolocations.
 
 | File Name        | Description                              |
