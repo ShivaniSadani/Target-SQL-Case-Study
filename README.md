@@ -1,4 +1,3 @@
-# Target-SQL-Case-Study
 # 🎯 Target SQL Business Case Study – Brazil E-commerce Analysis
 # 📌 Overview
 This project analyzes Target’s e-commerce operations in Brazil using SQL to derive actionable business insights. The dataset covers 100,000+ orders from Sept 2016 to Oct 2018, spanning 27 states and 8011 cities.
